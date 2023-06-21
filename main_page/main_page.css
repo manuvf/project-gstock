@@ -1,0 +1,46 @@
+
+.text-product, .text-supplier, .text-order{
+    color: black;
+}
+
+.text-product :hover, .text-supplier :hover, .text-order :hover{
+    color: black;
+}
+
+.text-product, .text-supplier, .text-order :visited{
+    color: black;
+}
+
+#products{
+    background-color: #AAD1CE;
+    width: 350px;
+    height: 350px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#suppliers{
+    background-color: #AAD1CE;
+    width: 350px;
+    height: 350px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#orders{
+    background-color: #AAD1CE;
+    width: 350px;
+    height: 350px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#products:hover{
+    background-color: rgb(163, 163, 163);
+}
+#suppliers:hover{
+    background-color:  rgb(163, 163, 163);
+}
+#orders:hover{
+    background-color:  rgb(163, 163, 163);
+}
